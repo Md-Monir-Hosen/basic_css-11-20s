@@ -1,0 +1,18 @@
+div {  
+    width: 300px;  
+    height: 200px;  
+    border: 2px solid red;  
+    }  
+    #div1{  
+    background-image: url('lion.png');  
+    background-size: auto;  
+    }  
+    #div2{  
+    background-image: url('lion.png');  
+    background-size: 150px 150px;  
+    }  
+    #div3{  
+    background-image: url('lion.png');  
+    background-size: 30%;  
+    }  
+    

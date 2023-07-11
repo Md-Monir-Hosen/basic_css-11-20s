@@ -1,0 +1,15 @@
+a{
+    color: aqua;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: red;
+}
+p{
+    color:red;
+}
+p:hover{
+    color: blue;
+}

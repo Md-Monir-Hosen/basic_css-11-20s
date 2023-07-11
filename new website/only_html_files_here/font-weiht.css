@@ -1,0 +1,21 @@
+p.1{
+    font-weight:light;
+}
+p.2{
+    font-weight:lighter;
+}
+p.3{
+    font-weight:bold;
+}
+p.4{
+    font-weight:bolder;
+}
+p.n1{
+    font-weight:1;
+}
+p.n1000{
+    font-weight:1000;
+}
+p.5{
+    font-weight:initial;
+}
